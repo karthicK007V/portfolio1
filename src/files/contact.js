@@ -36,9 +36,9 @@ const Contact = () => {
       <div className="col-6">
         <form onSubmit={(e)=>{handelsub(e)}}>
           <input type="text" id="name" placeholder="Name" name='form.name' value={form.name} onChange={(e)=>Handelchange(e)} required/>
-          <input type="email" id="email" placeholder="email" value={form.email} name='form.email' onChange={(e)=>Handelchange(e)} required/>
+          <input type="email" id="email" placeholder="Email" value={form.email} name='form.email' onChange={(e)=>Handelchange(e)} required/>
 
-          <input type="number" id="phone" placeholder="Phonenumber"  value={form.phonenumber}  name='form.phonenumber' onChange={(e)=>Handelchange(e)} required/>
+          <input type="number" id="phone" placeholder="Phone Number"  value={form.phonenumber}  name='form.phonenumber' onChange={(e)=>Handelchange(e)} required/>
 
           <textarea id="message" placeholder="Message" value={form.message} name='form.message' onChange={(e)=>Handelchange(e)} required></textarea>
           <button type="submit" className="btn btn-primary ">Send</button>

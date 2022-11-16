@@ -6,7 +6,7 @@ const About = () => {
     return (
         <div>
           <Navbar/>
-            <h1 className="Us">About <span>Us</span></h1>
+            <h1 className="Us">Abo<span>Ut</span></h1>
             <section id="About">
     <div className="container mb-2 about">
       <div className="row">
@@ -56,7 +56,7 @@ const About = () => {
           <div className="card mb-3 " style={{"max-width": "25rem"}}>
             <div className="card-header fs-4 bg-transparent ">LLB (Bachelor of Law)</div>
             <div className="card-body ">
-              <h5 className="card-title">Goverment Law College </h5>
+              <h5 className="card-title">Government Law College </h5>
               <p className="card-text">Coimbatore</p>
               <p className="card-text">Sep 2019 - Jul 2022</p>
             </div>
