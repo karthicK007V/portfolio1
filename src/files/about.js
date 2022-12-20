@@ -85,7 +85,7 @@ const About = () => {
             <div className="card-header fs-4 bg-transparent ">Experience</div>
             <div className="card-body ">
               <h5 className="card-title">I ' m Fresher </h5>
-              <p className="card-text">Six Months Of Learning Expreience </p>
+              <p className="card-text">Six Months Of Learning  </p>
             </div>
             <div className="card-footer  bg-transparent ">Coimbatore</div>
           </div>
