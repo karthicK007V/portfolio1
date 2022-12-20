@@ -6,7 +6,7 @@ const About = () => {
     return (
         <div>
           <Navbar/>
-            <h1 className="Us">Abo<span>Ut</span></h1>
+            <h1 className="Us">Abo<span>ut</span></h1>
             <section id="About">
     <div className="container mb-2 about">
       <div className="row">
