@@ -47,7 +47,7 @@ const Contact = () => {
       </div>
       <div className="col-md-4 text-center">
         <ul className="list-unstyled mb-0">
-          <li><a href="https://goo.gl/maps/386kdEGoL8e8fehm7" target="_blank"><i className="fas fa-map-marker-alt fa-2x"></i></a>
+          <li><a href={"https://goo.gl/maps/386kdEGoL8e8fehm7"} target="blank"><i className="fas fa-map-marker-alt fa-2x"></i></a>
             <p>Coimbatore,Tamilnadu </p>
           </li>
 
@@ -55,15 +55,15 @@ const Contact = () => {
             <p>+91 99947 29177</p>
           </li>
 
-          <li><a href="mailto:karthick09v@gmail.com" target="_blank"><i className="fas fa-envelope mt-4 fa-2x "></i></a>
-            <p>karthick09v@gmail.com</p>
+          <li><a href="mailto:karthi.16v@gmail.com" target="blank"><i className="fas fa-envelope mt-4 fa-2x "></i></a>
+            <p>karthi.16v@gmail.com</p>
           </li>
         </ul>
 
-        <a href="https://wa.me/+919994729177" target="_blank"><i className="fa-brands fa-whatsapp"></i></a>
-        <a href="https://www.linkedin.com/in/karthick-v-ba68b3255/" target="_blank"><i
+        <a href="https://wa.me/+919994729177" target="blank"><i className="fa-brands fa-whatsapp"></i></a>
+        <a href="https://www.linkedin.com/in/karthick-v-ba68b3255/" target="blank"><i
             className="fa-brands fa-linkedin"></i></a>
-        <a href="https://github.com/karthicK007V" target="_blank"><i className="fa-brands fa-github"></i></a>
+        <a href="https://github.com/karthicK007V" target="blank"><i className="fa-brands fa-github"></i></a>
       
 
         <p>Get In Touch</p>
