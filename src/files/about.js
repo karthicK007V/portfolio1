@@ -68,14 +68,14 @@ const About = () => {
 
         <div className="col-4">
           <div className="card mb-3 " style={{"max-width": "25rem"}}>
-            <div className="card-header fs-4 bg-transparent ">Full Stack Developer Coures</div>
+            <div className="card-header fs-4 bg-transparent ">Full Stack Developer Course</div>
             <div className="card-body ">
-              <h5 className="card-title">Guvi Institute</h5>
+              <h5 className="card-title">Guvi </h5>
               <p className="card-text">Chennai</p>
               <p className="card-text">Aug 2022 - Nov 2022</p>
 
             </div>
-            <div className="card-footer  bg-transparent "> Courses Completed</div>
+            <div className="card-footer  bg-transparent "> Course complete</div>
           </div>
 
 
@@ -85,7 +85,7 @@ const About = () => {
             <div className="card-header fs-4 bg-transparent ">Experience</div>
             <div className="card-body ">
               <h5 className="card-title">I ' m Fresher </h5>
-              <p className="card-text">Six Months Of Learning Expreience </p>
+              <p className="card-text">Six Months Of Learning  </p>
             </div>
             <div className="card-footer  bg-transparent ">Coimbatore</div>
           </div>
