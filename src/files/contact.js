@@ -61,7 +61,7 @@ const Contact = () => {
         </ul>
 
         <a href="https://wa.me/+919994729177" target="blank"><i className="fa-brands fa-whatsapp"></i></a>
-        <a href="https://www.linkedin.com/in/karthick-v-ba68b3255/" target="blank"><i
+        <a href="https://www.linkedin.com/in/karthick-v-3a3b17241/" target="blank"><i
             className="fa-brands fa-linkedin"></i></a>
         <a href="https://github.com/karthicK007V" target="blank"><i className="fa-brands fa-github"></i></a>
       
