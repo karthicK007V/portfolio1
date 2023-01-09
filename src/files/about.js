@@ -54,7 +54,7 @@ const About = () => {
       <div className="row">
         <div className="col-4">
           <div className="card mb-3 " style={{"max-width": "25rem"}}>
-            <div className="card-header fs-4 bg-transparent ">LLB (Bachelor of Law)</div>
+            <div className="card-header fs-4 bg-transparent ">LLB (Bachelor Legilative of Law)</div>
             <div className="card-body ">
               <h5 className="card-title">Government Law College </h5>
               <p className="card-text">Coimbatore</p>
@@ -72,7 +72,7 @@ const About = () => {
             <div className="card-body ">
               <h5 className="card-title">Guvi </h5>
               <p className="card-text">Chennai</p>
-              <p className="card-text">Aug 2022 - Nov 2022</p>
+              <p className="card-text">Aug 2022 - Jan 2023</p>
 
             </div>
             <div className="card-footer  bg-transparent "> Course complete</div>
