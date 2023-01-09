@@ -74,17 +74,26 @@
     color: red;
 }
 
-.fa-brands{
+.fa-brands,fa-solid{
     font-size: 60px;
     color: chartreuse;
     margin: 50px 20px;
 }
+.fa-solid{
+    font-size: 60px;
+    color: chartreuse;
+    margin: 50px 20px;
+}
+
 .fa-envelope{
     font-size: 70px;
     color: chartreuse;
     margin: 50px 10px;
 }
 #home .fa-brands:hover{
+    color:red;
+}
+#home .fa-solid:hover{
     color:red;
 }
 #home .fa-envelope:hover{

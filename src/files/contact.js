@@ -64,6 +64,8 @@ const Contact = () => {
         <a href="https://www.linkedin.com/in/karthick-v-3a3b17241/" target="blank"><i
             className="fa-brands fa-linkedin"></i></a>
         <a href="https://github.com/karthicK007V" target="blank"><i className="fa-brands fa-github"></i></a>
+       
+      
       
 
         <p>Get In Touch</p>

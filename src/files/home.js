@@ -35,6 +35,10 @@ const Home = () => {
             <a href="https://github.com/karthicK007V" target="blank"><i className="fa-brands fa-github"></i></a>
             <a href="mailto:karthi.16v@gmail.com" target="blank"><i className="fa fa-envelope "
                 style={{"font-size":"60px" }}></i></a>
+                
+                <a href="https://karthick-resume.netlify.app/" target="blank"><i class="fa-solid fa-id-card"
+                style={{"font-size":"60px" }}></i></a>
+                
 
           </div>
           <div className="col-6">
